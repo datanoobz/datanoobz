@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align='right' src = "https://github.com/datanoobz/github-stats-transparent/blob/output/generated/languages.svg">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datanoobz&theme=radical)
